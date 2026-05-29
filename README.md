@@ -57,7 +57,7 @@ Se quiser bater um papo técnico ou conhecer melhor meu código, bora conversar!
 ### 📬 Contato
 
 📧 joaovictormoura992@gmail.com 
-🔗 https://www.linkedin.com/in/joao-victor992/
+🔗 https://www.linkedin.com/in/joaovictormouraa/
 📁 Em breve: Portfólio online!
 
 ---
