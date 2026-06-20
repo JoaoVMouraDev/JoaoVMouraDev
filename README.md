@@ -19,16 +19,16 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 
 ### 📚 Estudando atualmente
 
-- Boas práticas de desenvolvimento *Front-End*
-- Deploy e publicação de aplicações web
-- Arquitetura de aplicações *React*
+- Chat em tempo real (WebSockets)
+- Arquitetura de aplicações Full Stack
+- Escalabilidade e infraestrutura web
 
 ---
 
 ### 💡 Projetos em destaque
 
 🚀 ReactGramm
-- Plataforma social full stack publicada em produção.
+- Plataforma social full stack publicada em produção com autenticação, publicações, notificações e armazenamento persistente de imagens.
 - React • TypeScript • Node.js • PostgreSQL • Vercel
 
 🎮 Campo Minado
@@ -42,19 +42,19 @@ Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces 
 ### 🛠 Tecnologias
 
 *Frontend*:
-React • JavaScript • HTML5 • CSS3 • Tailwind CSS
+React • TypeScript • JavaScript • Tailwind CSS
 
 *Backend*:
 Node.js • PostgreSQL • APIs REST • JWT
 
 Ferramentas:
-Git • GitHub • Figma • VS Code
+Git • GitHub • Vercel
 
 ---
 
 ### 🎯 Objetivo
 
-Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End, onde eu possa aplicar meus conhecimentos, continuar evoluindo tecnicamente e contribuir com projetos reais.
+Estou em busca da minha primeira oportunidade como Desenvolvedor Full Stack ou Front-End, contribuindo com aplicações web modernas e projetos reais em produção.
 
 ---
 
