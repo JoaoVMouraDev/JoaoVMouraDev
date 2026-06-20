@@ -61,7 +61,7 @@ Estou em busca da minha primeira oportunidade como Desenvolvedor Front-End, onde
 ### 📬 Contato
 
 📧 joaovictormoura992@gmail.com 
-🔗 https://www.linkedin.com/in/joaovictormouraa/
+🔗 linkedin.com/in/joaovictormouraa/
 
 ---
 
