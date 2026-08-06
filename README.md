@@ -36,6 +36,7 @@ Sistema Full Stack para gerenciamento de chamados, com autenticação JWT, contr
 **Stack:** React, TypeScript, Node.js, Express, Prisma, Zod e TanStack Query
 
 💻 [Repositório](https://github.com/JoaoVMouraDev/TicketFlow)
+> Projeto em desenvolvimento e ainda sem deploy público.
 
 #### 🎮 Campo Minado Online
 
