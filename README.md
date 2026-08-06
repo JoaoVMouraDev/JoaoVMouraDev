@@ -78,16 +78,19 @@ Sistema Full Stack para abertura, acompanhamento e atendimento de chamados inter
 
 #### 🎮 Campo Minado Online
 
-Jogo web responsivo com lógica completa de tabuleiro.
+Jogo web responsivo inspirado no clássico Campo Minado.
 
 - Primeiro clique seguro
 - Expansão automática de células vazias
 - Três níveis de dificuldade
 - Ranking persistente
 - Múltiplos temas visuais
+- Interface adaptada para diferentes telas
 
-**Tecnologias:** HTML5 • JavaScript • CSS3
+**Tecnologias:** React • TypeScript • JavaScript • CSS • LocalStorage
 
+🔗 [Acessar projeto](https://campo-minado-seven.vercel.app)  
+💻 [Ver repositório](https://github.com/JoaoVMouraDev/Campo-Minado)
 ---
 
 ### 🛠 Tecnologias
