@@ -1,95 +1,155 @@
-<h1 align="center">E aí! Eu sou o João Victor👨‍💻</h1>
+# Olá! Eu sou João Victor 👨‍💻
 
-<p align="center">
-  <b> Desenvolvedor Full Stack formado em Ciência da Computação </b>
-</p>
-<p align="center">
-  Apaixonado por criar aplicações modernas, funcionais e intuitivas para a web. 
-</p>
+### Desenvolvedor de Software Júnior | Front-End e Full Stack
 
----
+Sou formado em **Ciência da Computação** e desenvolvo aplicações web com foco em interfaces responsivas, integração com APIs, segurança e boa experiência do usuário.
 
-### 🚀 Sobre mim
-
-Sou formado em *Ciência da Computação* e tenho experiência prática no desenvolvimento de aplicações web utilizando *React*, *TypeScript*, *Node.js*, *PostgreSQL*, *Tailwind CSS* e *Vercel*.
-
-Gosto de transformar ideias em projetos reais, buscando sempre criar interfaces responsivas, boa experiência do usuário e código organizado.
+Atualmente, trabalho principalmente com **React, TypeScript, Node.js, PostgreSQL e Supabase**, transformando ideias em projetos funcionais e publicados.
 
 ---
 
-### 📚 Estudando atualmente
+## 🚀 Sobre mim
 
-- Chat em tempo real (WebSockets)
+- 🎓 Bacharel em Ciência da Computação
+- 💻 Experiência prática com desenvolvimento Front-End e Full Stack
+- 🛠️ Experiência profissional com suporte técnico e resolução de problemas
+- 📚 Interesse em arquitetura de software, testes automatizados e segurança de APIs
+- 🎯 Em busca da minha primeira oportunidade profissional como desenvolvedor
+
+---
+
+## 💡 Projetos em destaque
+
+### 🚀 ReactGram
+
+Plataforma social Full Stack publicada em produção.
+
+Principais funcionalidades:
+
+- Autenticação com JWT
+- Criação de publicações
+- Upload de fotos e GIFs
+- Carrossel de múltiplas mídias
+- Curtidas, comentários e respostas
+- Seguidores, menções e hashtags
+- Posts salvos
+- Notificações
+- Chat em tempo real
+- Controle de dados públicos e sensíveis
+- Interface responsiva para desktop e mobile
+
+**Tecnologias:** React, TypeScript, Node.js, PostgreSQL, Redux Toolkit, Vercel e Vercel Blob
+
+🔗 [Acessar projeto](https://react-gramm.vercel.app/)  
+💻 [Ver repositório](https://github.com/JoaoVMouraDev/ReactGramm)
+
+---
+
+### 🎫 TicketFlow
+
+Sistema Full Stack para abertura, acompanhamento e atendimento de chamados internos.
+
+Principais funcionalidades:
+
+- Autenticação com JWT
+- Controle de acesso por função
+- Criação e gerenciamento de chamados
+- Busca, filtros e paginação
+- Categorias e prioridades
+- Histórico de comentários
+- Alteração de status
+- Métricas operacionais
+- Área administrativa de usuários
+- Validação de dados
+- Rate limiting e proteção de rotas
+- Interface responsiva
+
+**Tecnologias:** React, TypeScript, Node.js, Express, Prisma ORM, Zod, JWT, bcrypt, Helmet, TanStack Query e SQLite
+
+💻 [Ver repositório](https://github.com/JoaoVMouraDev/TicketFlow)
+
+> Projeto em desenvolvimento e ainda sem deploy público.
+
+---
+
+### 🎮 Campo Minado Online
+
+Jogo web responsivo com lógica completa de tabuleiro.
+
+Principais funcionalidades:
+
+- Primeiro clique seguro
+- Expansão automática de células vazias
+- Três níveis de dificuldade
+- Ranking persistente
+- Múltiplos temas visuais
+
+**Tecnologias:** React, TypeScript, JavaScript e CSS
+
+---
+
+## 🛠️ Tecnologias
+
+### Front-End
+
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Redux Toolkit
+- React Router
+- TanStack Query
+- Vite
+
+### Back-End
+
+- Node.js
+- Express
+- APIs REST
+- JWT
+- Zod
+- Prisma ORM
+- bcrypt
+
+### Banco de dados
+
+- PostgreSQL
+- SQLite
+- MongoDB
+- Supabase
+
+### Ferramentas
+
+- Git
+- GitHub
+- Vercel
+- Vercel Blob
+- Postman
+- Figma
+
+---
+
+## 📚 Atualmente estudando
+
+- Testes automatizados
 - Arquitetura de aplicações Full Stack
+- Segurança de APIs
+- Docker e CI/CD
 - Escalabilidade e infraestrutura web
 
 ---
 
-### 💡 Projetos em destaque
+## 🎯 Objetivo
 
-🚀 ReactGramm
-- Plataforma social full stack publicada em produção com autenticação, publicações, notificações e armazenamento persistente de imagens.
-- React • TypeScript • Node.js • PostgreSQL • Vercel
-
-🎮 Campo Minado
-- Jogo web com lógica completa, ranking e gerenciamento de estado.
-
-💻 Em desenvolvimento
-- Chat em tempo real para o ReactGramm.
+Busco uma oportunidade como **Desenvolvedor de Software Júnior**, **Desenvolvedor Front-End** ou **Desenvolvedor Full Stack**, na qual eu possa contribuir com projetos reais, evoluir tecnicamente e aprender com profissionais mais experientes.
 
 ---
 
-### 🛠 Tecnologias
+## 📬 Contato
 
-*Frontend*:
-React • TypeScript • JavaScript • Tailwind CSS
+📧 **E-mail:** joaovictormoura992@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/joaovictormouraa](https://www.linkedin.com/in/joaovictormouraa/)  
 
-*Backend*:
-Node.js • PostgreSQL • APIs REST • JWT
-
-Ferramentas:
-Git • GitHub • Vercel
-
----
-
-### 🎯 Objetivo
-
-Estou em busca da minha primeira oportunidade como Desenvolvedor Full Stack ou Front-End, contribuindo com aplicações web modernas e projetos reais em produção.
-
----
-
-### 📬 Contato
-
-📧 joaovictormoura992@gmail.com 
-
-🔗 [linkedin.com/in/joaovictormouraa/](https://www.linkedin.com/in/joaovictormouraa/)
-
----
-
-📌 Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor!
-
-<!--
-<div align="center">
-  <a href="https://github.com/joaovictor992">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Joaovictor992&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor992&layout=compact&langs_count=7&theme=dark"/>
-</div>
-    -->
-<div style="display: inline_block"><br>
-    <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/victor_mouraa2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaovictormoura992@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-victor992/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<!--
-   ![Snake Animation](https://github.com/JoaoVictor992/joaovictormoura992/blob/output/github-contribution-grid-snake.svg)
-  !-->
-  
-  </div>
+Fique à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor! 🚀
