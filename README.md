@@ -5,28 +5,16 @@
 </p>
 
 <p align="center">
-  Formado em Ciência da Computação e apaixonado por criar aplicações modernas, funcionais e intuitivas para a web.
+  Formado em Ciência da Computação, com foco em desenvolvimento web e aplicações Full Stack.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou formado em **Ciência da Computação**, com experiência prática na construção, publicação e manutenção de aplicações web utilizando **React**, **TypeScript**, **Node.js**, **PostgreSQL**, **Tailwind CSS** e **Vercel**.
+Desenvolvo aplicações com **React, TypeScript, Node.js e PostgreSQL**, buscando criar interfaces responsivas, APIs seguras e código organizado.
 
 Também possuo experiência profissional em suporte técnico, atuando com diagnóstico de problemas, gestão de chamados e atendimento a usuários.
-
-Gosto de transformar ideias em projetos reais, criando interfaces responsivas, APIs seguras, código organizado e experiências agradáveis para o usuário.
-
----
-
-### 📚 Estudando atualmente
-
-- Testes automatizados
-- Arquitetura de aplicações Full Stack
-- Segurança de APIs
-- Docker e CI/CD
-- Escalabilidade e infraestrutura web
 
 ---
 
@@ -34,108 +22,44 @@ Gosto de transformar ideias em projetos reais, criando interfaces responsivas, A
 
 #### 🚀 ReactGram
 
-Plataforma social Full Stack publicada em produção.
+Rede social Full Stack publicada em produção, com autenticação, upload de mídias, carrossel de fotos e GIFs, posts salvos, notificações e chat em tempo real.
 
-- Autenticação com JWT
-- Publicações com fotos e GIFs
-- Carrossel de múltiplas mídias
-- Curtidas, comentários, respostas e seguidores
-- Menções, hashtags e notificações
-- Posts salvos
-- Chat em tempo real
-- Upload e armazenamento de arquivos
-- Interface responsiva para desktop e mobile
+**Stack:** React, TypeScript, Node.js, PostgreSQL, Redux Toolkit e Vercel
 
-**Tecnologias:** React • TypeScript • Node.js • PostgreSQL • Redux Toolkit • Vercel • Vercel Blob
-
-🔗 [Acessar projeto](https://react-gramm.vercel.app/)  
-💻 [Ver repositório](https://github.com/JoaoVMouraDev/ReactGramm)
-
----
+🔗 [Projeto online](https://react-gramm.vercel.app/)  
+💻 [Repositório](https://github.com/JoaoVMouraDev/ReactGramm)
 
 #### 🎫 TicketFlow
 
-Sistema Full Stack para abertura, acompanhamento e atendimento de chamados internos.
+Sistema Full Stack para gerenciamento de chamados, com autenticação JWT, controle de acesso, filtros, paginação, métricas e área administrativa.
 
-- Autenticação com JWT
-- Controle de acesso por função
-- Criação e gerenciamento de chamados
-- Busca, filtros e paginação
-- Prioridades, categorias e métricas
-- Histórico de comentários
-- Alteração de status
-- Área administrativa de usuários
-- Validação de dados e tratamento de erros
-- Rate limiting e proteção de rotas
+**Stack:** React, TypeScript, Node.js, Express, Prisma, Zod e TanStack Query
 
-**Tecnologias:** React • TypeScript • Node.js • Express • Prisma ORM • Zod • JWT • bcrypt • Helmet • TanStack Query • SQLite
-
-💻 [Ver repositório](https://github.com/JoaoVMouraDev/TicketFlow)
-
-> Projeto em desenvolvimento e ainda sem deploy público.
-
----
+💻 [Repositório](https://github.com/JoaoVMouraDev/TicketFlow)
 
 #### 🎮 Campo Minado Online
 
-Jogo web responsivo inspirado no clássico Campo Minado.
+Jogo web responsivo com primeiro clique seguro, ranking, níveis de dificuldade e temas visuais.
 
-- Primeiro clique seguro
-- Expansão automática de células vazias
-- Três níveis de dificuldade
-- Ranking persistente
-- Múltiplos temas visuais
-- Interface adaptada para diferentes telas
+**Stack:** React, TypeScript, JavaScript e CSS
 
-**Tecnologias:** React • TypeScript • JavaScript • CSS • LocalStorage
+🔗 [Projeto online](https://campo-minado-seven.vercel.app)  
+💻 [Repositório](https://github.com/JoaoVMouraDev/Campo-Minado)
 
-🔗 [Acessar projeto](https://campo-minado-seven.vercel.app)  
-💻 [Ver repositório](https://github.com/JoaoVMouraDev/Campo-Minado)
 ---
 
 ### 🛠 Tecnologias
 
-#### Frontend
-
-React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Redux Toolkit • React Router • TanStack Query • Vite
-
-#### Backend
-
-Node.js • Express • APIs REST • JWT • Zod • Prisma ORM • bcrypt
-
-#### Banco de dados
-
-PostgreSQL • SQLite • MongoDB • Supabase
-
-#### Ferramentas
-
-Git • GitHub • Vercel • Vercel Blob • Postman • Figma
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS  
+**Backend:** Node.js, Express, APIs REST, JWT  
+**Banco de dados:** PostgreSQL, SQLite, MongoDB, Supabase  
+**Ferramentas:** Git, GitHub, Vercel, Postman e Figma
 
 ---
 
-### 🎯 Objetivo
+### 📚 Atualmente estudando
 
-Estou em busca da minha primeira oportunidade como **Desenvolvedor de Software Júnior**, **Desenvolvedor Front-End** ou **Desenvolvedor Full Stack**, contribuindo com aplicações web modernas, projetos reais e produtos em produção.
-
----
-
-### 📬 Contato
-
-<div align="left">
-
-<a href="mailto:joaovictormoura992@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/joaovictormouraa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/JoaoVMouraDev" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</div>
+Testes automatizados, arquitetura Full Stack, segurança de APIs, Docker e CI/CD.
 
 ---
 
@@ -153,6 +77,28 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor de Software J
 <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 </div>
+
+---
+
+### 🎯 Objetivo
+
+Estou em busca da minha primeira oportunidade como **Desenvolvedor de Software Júnior**, **Desenvolvedor Front-End** ou **Desenvolvedor Full Stack**, contribuindo com aplicações web modernas, projetos reais e produtos em produção.
+
+---
+
+### 📬 Contato
+
+<a href="mailto:joaovictormoura992@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/joaovictormouraa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/JoaoVMouraDev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 ---
 
